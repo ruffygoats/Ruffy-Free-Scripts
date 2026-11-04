@@ -20,103 +20,103 @@ Config = {
     roles = {
 
         {
-            roleId = "1517601695948079154",
+            roleId = "YOUR_ROLE_ID",
             groupName = "pl",
             label = "*"
         },
 
         {
-            roleId = "1517601698305282108",
+            roleId = "YOUR_ROLE_ID",
             groupName = "pl",
             label = "Projektleitung"
         },
 
         {
-            roleId = "1517601701010473101",
+            roleId = "YOUR_ROLE_ID",
             groupName = "manage",
             label = "Management"
         },
 
         {
-            roleId = "1517601712464990330",
+            roleId = "YOUR_ROLE_ID",
             groupName = "dev",
             label = "Developer"
         },
 
         {
-            roleId = "1551781386543824927",
+            roleId = "YOUR_ROLE_ID",
             groupName = "billionaire",
             label = "Billionaire"
         },
 
         {
-            roleId = "1517601709130518639",
+            roleId = "YOUR_ROLE_ID",
             groupName = "admin",
             label = "Administration"
         },
 
         {
-            roleId = "1517601709894144180",
+            roleId = "YOUR_ROLE_ID",
             groupName = "admin",
             label = "Jr. Administration"
         },
 
         {
-            roleId = "1517601720383836250",
+            roleId = "YOUR_ROLE_ID",
             groupName = "fv",
             label = "Fraktionsverwaltung"
         },
 
         {
-            roleId = "1517601721298452501",
+            roleId = "YOUR_ROLE_ID",
             groupName = "fv",
             label = "Jr. Fraktionsverwaltung"
         },
 
         {
-            roleId = "1517601722443235568",
+            roleId = "YOUR_ROLE_ID",
             groupName = "uv",
             label = "Unternehmensverwaltung"
         },
 
         {
-            roleId = "1517601725907730472",
+            roleId = "YOUR_ROLE_ID",
             groupName = "mod",
             label = "Sr. Moderation"
         },
 
         {
-            roleId = "1517601727170347009",
+            roleId = "YOUR_ROLE_ID",
             groupName = "mod",
             label = "Moderation"
         },
 
         {
-            roleId = "1517601728084574320",
+            roleId = "YOUR_ROLE_ID",
             groupName = "mod",
             label = "Jr. Moderation"
         },
 
         {
-            roleId = "1517601729150189719",
+            roleId = "YOUR_ROLE_ID",
             groupName = "support",
             label = "Sr. Supporter"
         },
 
         {
-            roleId = "1517601729963626637",
+            roleId = "YOUR_ROLE_ID",
             groupName = "support",
             label = "Supporter"
         },
 
         {
-            roleId = "1517601737492664432",
+            roleId = "YOUR_ROLE_ID",
             groupName = "analyst",
             label = "Analyst"
         },
 
         {
-            roleId = "1517601758933815296",
+            roleId = "YOUR_ROLE_ID",
             groupName = "creator",
             label = "Creator+"
         }
@@ -129,13 +129,13 @@ Config = {
         roles = {
 
             {
-                roleId = "1517601765741039766",
+                roleId = "YOUR_ROLE_ID",
                 name = "VIP",
                 level = 1
             },
 
             {
-                roleId = "1517601764227027025",
+                roleId = "YOUR_ROLE_ID",
                 name = "VIP Lifetime",
                 level = 2
             }
